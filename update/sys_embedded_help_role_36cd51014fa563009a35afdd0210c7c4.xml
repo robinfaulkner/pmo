@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_pmo_serviceportal" name="sn_dd_pmo_serviceportal">facd51014fa563009a35afdd0210c7c2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-11-01 17:34:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>36cd51014fa563009a35afdd0210c7c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>facd51014fa563009a35afdd0210c7c2</sys_name>
+        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_36cd51014fa563009a35afdd0210c7c4</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-11-01 17:34:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

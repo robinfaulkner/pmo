@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_phase" table="x_clstu_pmo_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Future</label>
+            <language>en</language>
+            <name>x_clstu_pmo_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-18 15:29:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c336e811b983304ad3c437ead4bcb13</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-18 15:29:54</sys_updated_on>
+            <value>future</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Initiating</label>
+            <language>en</language>
+            <name>x_clstu_pmo_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-18 15:29:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c336e811b983304ad3c437ead4bcb15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-18 15:29:54</sys_updated_on>
+            <value>initiating</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Planning</label>
+            <language>en</language>
+            <name>x_clstu_pmo_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-18 15:29:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c336e811b983304ad3c437ead4bcb17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-18 15:29:54</sys_updated_on>
+            <value>planning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Executing</label>
+            <language>en</language>
+            <name>x_clstu_pmo_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-18 15:29:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c336e811b983304ad3c437ead4bcb19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-18 15:29:54</sys_updated_on>
+            <value>executing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delivering</label>
+            <language>en</language>
+            <name>x_clstu_pmo_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-18 15:29:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8336e811b983304ad3c437ead4bcb1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-18 15:29:54</sys_updated_on>
+            <value>delivering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_phase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closing</label>
+            <language>en</language>
+            <name>x_clstu_pmo_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-18 15:29:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88336e811b983304ad3c437ead4bcb1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-18 15:29:54</sys_updated_on>
+            <value>closing</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_phase</element>
+            <name>x_clstu_pmo_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-18 15:29:54</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>44336e811b983304ad3c437ead4bcb14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_phase</sys_name>
+            <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_pmo_request_u_phase</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-18 15:29:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

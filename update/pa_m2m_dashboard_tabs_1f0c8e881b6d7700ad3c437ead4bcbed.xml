@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Project Status">81fb4e881b6d7700ad3c437ead4bcb51</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>dkrieger</sys_created_by>
+        <sys_created_on>2019-05-16 14:33:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f0c8e881b6d7700ad3c437ead4bcbed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>81fb4e881b6d7700ad3c437ead4bcb51</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_1f0c8e881b6d7700ad3c437ead4bcbed</sys_update_name>
+        <sys_updated_by>dkrieger</sys_updated_by>
+        <sys_updated_on>2019-05-16 14:33:22</sys_updated_on>
+        <tab display_value="New Tab">d70c8e881b6d7700ad3c437ead4bcbeb</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#ffffff</color>
+        <group display_value="CSU Project Managent">73f7674c1bf4b300ad3c437ead4bcbbd</group>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>CSU Project Management</name>
+        <no_tabs>false</no_tabs>
+        <order/>
+        <owner display_value="Robin Faulkner">8bc98268139f26001784b3b12244b0e1</owner>
+        <restrict_to_roles/>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2019-04-09 14:45:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>21eb2fc01b38b300ad3c437ead4bcbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CSU Project Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+        <sys_update_name>pa_dashboards_21eb2fc01b38b300ad3c437ead4bcbbf</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2019-04-09 14:45:17</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+</record_update>

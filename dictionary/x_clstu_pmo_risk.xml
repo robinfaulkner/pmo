@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Risk" max_length="40" name="x_clstu_pmo_risk" sizeclass="2" type="collection">
+        <element label="Mitigation Plan" max_length="2000" name="mitigation_plan" type="string"/>
+        <element label="Project" max_length="32" name="project" reference="x_clstu_pmo_request" type="reference"/>
+        <element label="Risk Short Description" max_length="500" name="risk_short_description" type="string"/>
+        <element choice="1" label="State" max_length="40" name="risk_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="Pending"/>
+                <element inactive_on_update="false" label="Achieved" sequence="1" value="Achieved"/>
+                <element inactive_on_update="false" label="Not Achieved" sequence="2" value="Not Achieved"/>
+            </choice>
+        </element>
+    </element>
+</database>

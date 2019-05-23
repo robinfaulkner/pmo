@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view">
+    <sysrule_view action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <device_type>browser</device_type>
+        <match_conditions>ALL</match_conditions>
+        <name>PMO Project Task Default</name>
+        <order>100</order>
+        <overrides_user_preference>true</overrides_user_preference>
+        <script><![CDATA[(function overrideView(view, is_list) {
+
+	// Add your code here
+	answer = null;  // set the new view to answer
+
+})(view, is_list);]]></script>
+        <sys_class_name>sysrule_view</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2019-05-21 20:21:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>369b0db91b21b7006f7411bebd4bcb51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PMO Project Task Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+        <sys_update_name>sysrule_view_369b0db91b21b7006f7411bebd4bcb51</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2019-05-21 20:21:10</sys_updated_on>
+        <table>x_clstu_pmo_task</table>
+        <view>Default</view>
+    </sysrule_view>
+</record_update>

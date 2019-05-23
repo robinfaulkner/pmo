@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_clstu_pmo_task" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_clstu_pmo_task" element="NULL" name="x_clstu_pmo_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">690dd10a13c667401784b3b12244b04f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-29 16:36:00</sys_created_on>
+            <sys_id>210dd10a13c667401784b3b12244b050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:36:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>parent.ref_x_clstu_pmo_request.project_title</element>
+            <list_id display_value="x_clstu_pmo_task" element="NULL" name="x_clstu_pmo_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">690dd10a13c667401784b3b12244b04f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-29 16:36:00</sys_created_on>
+            <sys_id>a10dd10a13c667401784b3b12244b050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:36:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>task_name</element>
+            <list_id display_value="x_clstu_pmo_task" element="NULL" name="x_clstu_pmo_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">690dd10a13c667401784b3b12244b04f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-29 16:36:00</sys_created_on>
+            <sys_id>250dd10a13c667401784b3b12244b050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:36:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_clstu_pmo_task" element="NULL" name="x_clstu_pmo_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">690dd10a13c667401784b3b12244b04f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-29 16:36:00</sys_created_on>
+            <sys_id>a50dd10a13c667401784b3b12244b050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:36:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_clstu_pmo_task" element="NULL" name="x_clstu_pmo_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">690dd10a13c667401784b3b12244b04f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-29 16:36:00</sys_created_on>
+            <sys_id>290dd10a13c667401784b3b12244b050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:36:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>task_due_date</element>
+            <list_id display_value="x_clstu_pmo_task" element="NULL" name="x_clstu_pmo_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">690dd10a13c667401784b3b12244b04f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-29 16:36:00</sys_created_on>
+            <sys_id>a90dd10a13c667401784b3b12244b050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:36:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>completion_status</element>
+            <list_id display_value="x_clstu_pmo_task" element="NULL" name="x_clstu_pmo_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">690dd10a13c667401784b3b12244b04f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-29 16:36:00</sys_created_on>
+            <sys_id>2d0dd10a13c667401784b3b12244b050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:36:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>parent</element>
+            <list_id display_value="x_clstu_pmo_task" element="NULL" name="x_clstu_pmo_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">690dd10a13c667401784b3b12244b04f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-29 16:36:00</sys_created_on>
+            <sys_id>ad0dd10a13c667401784b3b12244b050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:36:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_clstu_pmo_task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-29 16:36:00</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>690dd10a13c667401784b3b12244b04f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_pmo_task</sys_name>
+            <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+            <sys_update_name>sys_ui_list_x_clstu_pmo_task_null</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:36:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="portfolio" table="x_clstu_pmo_portfolio" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>portfolio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Client Services</label>
+            <language>en</language>
+            <name>x_clstu_pmo_portfolio</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-12-14 20:07:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f2dd37213922b001784b3b12244b03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-12-14 20:07:05</sys_updated_on>
+            <value>pmo_cs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>portfolio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise Applications</label>
+            <language>en</language>
+            <name>x_clstu_pmo_portfolio</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-12-14 20:06:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>399c5b3213922b001784b3b12244b0d6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-12-14 20:07:28</sys_updated_on>
+            <value>pmo_ea</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>portfolio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Information Technology Services</label>
+            <language>en</language>
+            <name>x_clstu_pmo_portfolio</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-12-14 20:07:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f3ddb3213922b001784b3b12244b07a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-12-14 20:07:19</sys_updated_on>
+            <value>pmo_its</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>portfolio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technology Infrastructure</label>
+            <language>en</language>
+            <name>x_clstu_pmo_portfolio</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-12-14 20:06:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>802d5f3213922b001784b3b12244b0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-12-14 20:06:50</sys_updated_on>
+            <value>pmo_ti</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>portfolio</element>
+            <name>x_clstu_pmo_portfolio</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-12-14 20:06:25</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>420d5f3213922b001784b3b12244b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>portfolio</sys_name>
+            <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_pmo_portfolio_portfolio</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-12-14 20:06:25</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

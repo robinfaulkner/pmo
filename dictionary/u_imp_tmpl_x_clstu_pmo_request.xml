@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Clstu Pmo Request" max_length="40" name="u_imp_tmpl_x_clstu_pmo_request" type="collection">
+        <element attributes="import_attribute_name=Actual Duration,edge_encryption_enabled=true" label="Actual Duration" max_length="40" name="u_actual_duration" type="string"/>
+        <element attributes="import_attribute_name=Actual End Date" label="Actual End Date" max_length="40" name="u_actual_end_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Actual Start Date" label="Actual Start Date" max_length="40" name="u_actual_start_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Comments,edge_encryption_enabled=true" label="Comments" max_length="394" name="u_comments" type="string"/>
+        <element attributes="import_attribute_name=Deliverables,edge_encryption_enabled=true" label="Deliverables" max_length="40" name="u_deliverables" type="string"/>
+        <element attributes="import_attribute_name=Estimated Completion Date" label="Estimated Completion Date" max_length="40" name="u_estimated_completion_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Instructions,edge_encryption_enabled=true" label="Instructions" max_length="695" name="u_instructions" type="string"/>
+        <element attributes="import_attribute_name=Owner/Lead Assigned,edge_encryption_enabled=true" label="Owner/Lead Assigned" max_length="40" name="u_owner_lead_assigned" type="string"/>
+        <element attributes="import_attribute_name=Planned Duration,edge_encryption_enabled=true" label="Planned Duration" max_length="40" name="u_planned_duration" type="string"/>
+        <element attributes="import_attribute_name=Planned End Date" label="Planned End Date" max_length="40" name="u_planned_end_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Planned Start Date" label="Planned Start Date" max_length="40" name="u_planned_start_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Predecessors,edge_encryption_enabled=true" label="Predecessors" max_length="40" name="u_predecessors" type="string"/>
+        <element attributes="import_attribute_name=Progress Indicator,edge_encryption_enabled=true" label="Progress Indicator" max_length="40" name="u_progress_indicator" type="string"/>
+        <element attributes="import_attribute_name=Status,edge_encryption_enabled=true" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="import_attribute_name=Status Notes,edge_encryption_enabled=true" label="Status Notes" max_length="77" name="u_status_notes" type="string"/>
+        <element attributes="import_attribute_name=Task Name,edge_encryption_enabled=true" label="Task Name" max_length="215" name="u_task_name" type="string"/>
+        <element attributes="import_attribute_name=% Complete" label="% Complete" max_length="15" name="u___complete" type="decimal"/>
+    </element>
+</database>

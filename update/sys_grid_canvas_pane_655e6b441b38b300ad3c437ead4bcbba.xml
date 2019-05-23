@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">8dfbabc01b38b300ad3c437ead4bcb64</grid_canvas>
+        <height>30</height>
+        <portal_widget display_value="Created 04/09/2019 10:55:42 AM">e55e6b441b38b300ad3c437ead4bcbb8</portal_widget>
+        <posx>8</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2019-04-09 14:55:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>655e6b441b38b300ad3c437ead4bcbba</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_655e6b441b38b300ad3c437ead4bcbba</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2019-04-09 15:26:41</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>

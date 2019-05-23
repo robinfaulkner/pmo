@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6be87093133627001784b3b12244b0c8" sys_domain="global" table="x_clstu_pmo_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:26:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2dc853d1b21b7006f7411bebd4bcb41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clstu_pmo_task" name="x_clstu_pmo_task" sys_domain="global" view="Default view">6be87093133627001784b3b12244b0c8</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_pmo_task" sys_domain="global" view="Default view">16dc853d1b21b7006f7411bebd4bcb24</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:26:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:29:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>259d057d1b21b7006f7411bebd4bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clstu_pmo_task" name="x_clstu_pmo_task" sys_domain="global" view="Default view">6be87093133627001784b3b12244b0c8</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_clstu_pmo_task" sys_domain="global" view="Default view">619d057d1b21b7006f7411bebd4bcb0d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:29:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_clstu_pmo_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-01-09 17:57:48</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6be87093133627001784b3b12244b0c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_pmo_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6be87093133627001784b3b12244b0c8</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-01-09 17:57:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

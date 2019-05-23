@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="risk_state" table="x_clstu_pmo_risk" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>x_clstu_pmo_risk</name>
+            <sequence>0</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-12-10 16:20:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87d20a654fd627009a35afdd0210c799</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-12-10 16:20:02</sys_updated_on>
+            <value>Pending</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Achieved</label>
+            <language>en</language>
+            <name>x_clstu_pmo_risk</name>
+            <sequence>1</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-12-10 16:20:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fd20a654fd627009a35afdd0210c79b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-12-10 16:20:02</sys_updated_on>
+            <value>Achieved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Achieved</label>
+            <language>en</language>
+            <name>x_clstu_pmo_risk</name>
+            <sequence>2</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-12-10 16:20:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07d282a54fd627009a35afdd0210c7de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-12-10 16:20:02</sys_updated_on>
+            <value>Not Achieved</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>risk_state</element>
+            <name>x_clstu_pmo_risk</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-12-10 16:20:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>43d20a654fd627009a35afdd0210c79a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>risk_state</sys_name>
+            <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_pmo_risk_risk_state</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-12-10 16:20:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

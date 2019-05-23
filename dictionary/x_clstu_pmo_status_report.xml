@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Status Report" max_length="40" name="x_clstu_pmo_status_report" type="collection">
+        <element label="Creator" max_length="32" name="creator" reference="sys_user" type="reference"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Overall Health" max_length="40" name="overall_health" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Green" sequence="100" value="green"/>
+                <element inactive_on_update="false" label="Red" sequence="200" value="red"/>
+                <element inactive_on_update="false" label="Yellow" sequence="300" value="yello"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Summary" max_length="2000" name="pmo_summary" type="string"/>
+        <element label="Project" max_length="32" name="project" reference="x_clstu_pmo_request" type="reference"/>
+        <index name="index">
+            <element name="creator"/>
+        </index>
+        <index name="index2">
+            <element name="project"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_clstu_pmo_request" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f320158a1badb7006f7411bebd4bcb67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>dkrieger</sys_created_by>
+            <sys_created_on>2019-05-22 15:19:39</sys_created_on>
+            <sys_id>3f20158a1badb7006f7411bebd4bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dkrieger</sys_updated_by>
+            <sys_updated_on>2019-05-22 15:19:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project_title</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f320158a1badb7006f7411bebd4bcb67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>dkrieger</sys_created_by>
+            <sys_created_on>2019-05-22 15:19:39</sys_created_on>
+            <sys_id>bf20158a1badb7006f7411bebd4bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dkrieger</sys_updated_by>
+            <sys_updated_on>2019-05-22 15:19:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>pmo_project_manager</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f320158a1badb7006f7411bebd4bcb67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>dkrieger</sys_created_by>
+            <sys_created_on>2019-05-22 15:19:39</sys_created_on>
+            <sys_id>3320158a1badb7006f7411bebd4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dkrieger</sys_updated_by>
+            <sys_updated_on>2019-05-22 15:19:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f320158a1badb7006f7411bebd4bcb67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>dkrieger</sys_created_by>
+            <sys_created_on>2019-05-22 15:19:39</sys_created_on>
+            <sys_id>b320158a1badb7006f7411bebd4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dkrieger</sys_updated_by>
+            <sys_updated_on>2019-05-22 15:19:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_start</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f320158a1badb7006f7411bebd4bcb67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>dkrieger</sys_created_by>
+            <sys_created_on>2019-05-22 15:19:39</sys_created_on>
+            <sys_id>3720158a1badb7006f7411bebd4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dkrieger</sys_updated_by>
+            <sys_updated_on>2019-05-22 15:19:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_end</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f320158a1badb7006f7411bebd4bcb67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>dkrieger</sys_created_by>
+            <sys_created_on>2019-05-22 15:19:39</sys_created_on>
+            <sys_id>b720158a1badb7006f7411bebd4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dkrieger</sys_updated_by>
+            <sys_updated_on>2019-05-22 15:19:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_status</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f320158a1badb7006f7411bebd4bcb67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>dkrieger</sys_created_by>
+            <sys_created_on>2019-05-22 15:19:39</sys_created_on>
+            <sys_id>3b20158a1badb7006f7411bebd4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dkrieger</sys_updated_by>
+            <sys_updated_on>2019-05-22 15:19:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f320158a1badb7006f7411bebd4bcb67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>dkrieger</sys_created_by>
+            <sys_created_on>2019-05-22 15:19:39</sys_created_on>
+            <sys_id>bb20158a1badb7006f7411bebd4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dkrieger</sys_updated_by>
+            <sys_updated_on>2019-05-22 15:19:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_clstu_pmo_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>dkrieger</sys_created_by>
+            <sys_created_on>2019-05-22 15:19:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f320158a1badb7006f7411bebd4bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_pmo_request</sys_name>
+            <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+            <sys_update_name>sys_ui_list_x_clstu_pmo_request_null</sys_update_name>
+            <sys_updated_by>dkrieger</sys_updated_by>
+            <sys_updated_on>2019-05-22 15:19:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

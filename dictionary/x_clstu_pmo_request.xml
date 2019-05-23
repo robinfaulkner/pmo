@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Projects" max_length="40" name="x_clstu_pmo_request" sizeclass="38" type="collection">
+        <element label="Change" max_length="32" name="change" reference="change_request" type="reference"/>
+        <element label="Proposed Go Live Date" max_length="40" name="golive_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is this project under five business days?" mandatory="true" max_length="40" name="is_this_project_under_five_business_days" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="100" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="200" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Planned Duration" max_length="40" name="planned_duration" type="string"/>
+        <element label="Actual Duration" max_length="40" name="pmo_actual_duration" type="glide_duration"/>
+        <element label="Actual effort" max_length="40" name="pmo_actual_effort" type="glide_duration"/>
+        <element label="Original end date" max_length="40" name="pmo_original_end_date" type="glide_date_time"/>
+        <element label="Original start date" max_length="40" name="pmo_original_start_date" type="glide_date_time"/>
+        <element attributes="target_field=percent_complete_target,target_threshold_colors=0:tomato;50:khaki;90:lightgreen" label="Percent Complete" max_length="40" name="pmo_percent_complete" type="percent_complete"/>
+        <element label="Planned Duration" max_length="40" name="pmo_planned_duration" type="glide_duration"/>
+        <element label="Planned Effort" max_length="40" name="pmo_planned_effort" type="glide_duration"/>
+        <element label="End Date" max_length="40" name="pmo_planned_end_date" type="glide_date_time"/>
+        <element label="Start Date" max_length="40" name="pmo_planned_start_date" type="glide_date_time"/>
+        <element label="Primary ITS Group" max_length="32" name="pmo_portfolio" reference="x_clstu_pmo_portfolio" type="reference"/>
+        <element label="Project Lead" mandatory="true" max_length="32" name="pmo_project_manager" reference="sys_user" reference_qual="roles=its^EQ" reference_qual_condition="roles=its^EQ" type="reference"/>
+        <element label="Schedule" max_length="32" name="pmo_schedule" reference="cmn_schedule" reference_qual="type=pmo^EQ" reference_qual_condition="type=pmo^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="1000" name="project_description" type="string"/>
+        <element label="Project Requestor" max_length="32" name="project_requesor" reference="sys_user" type="reference"/>
+        <element label="Project Name" mandatory="true" max_length="100" name="project_title" type="string"/>
+        <element label="Request Date" max_length="40" name="request_due_date" type="glide_date"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Amount Requested" max_length="20" name="u_amount_requested" type="price"/>
+        <element label="Department" max_length="32" name="u_department" reference="cmn_department" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Fiscal Year" max_length="40" name="u_fiscal_year" type="string">
+            <choice>
+                <element inactive_on_update="false" label="19/20" sequence="0" value="19/20"/>
+                <element inactive_on_update="false" label="20/21" sequence="1" value="20/21"/>
+                <element inactive_on_update="false" label="21/22" sequence="2" value="21/22"/>
+            </choice>
+        </element>
+        <element label="Internal" max_length="40" name="u_internal" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Justification" max_length="5000" name="u_justification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Phase" max_length="40" name="u_phase" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Future" sequence="0" value="future"/>
+                <element inactive_on_update="false" label="Initiating" sequence="1" value="initiating"/>
+                <element inactive_on_update="false" label="Planning" sequence="2" value="planning"/>
+                <element inactive_on_update="false" label="Executing" sequence="3" value="executing"/>
+                <element inactive_on_update="false" label="Delivering" sequence="4" value="delivering"/>
+                <element inactive_on_update="false" label="Closing" sequence="5" value="closing"/>
+            </choice>
+        </element>
+        <element label="Assigned ITS Group" max_length="32" name="u_pmo_assigned_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Notes" max_length="4000" name="u_project_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Scope" max_length="5000" name="u_scope" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="choice">
+            <choice>
+                <element hint="On track" inactive_on_update="false" label="Green" sequence="1" value="green"/>
+                <element inactive_on_update="false" label="Yellow" sequence="2" value="yellow"/>
+                <element inactive_on_update="false" label="Red" sequence="3" value="red"/>
+            </choice>
+        </element>
+    </element>
+</database>

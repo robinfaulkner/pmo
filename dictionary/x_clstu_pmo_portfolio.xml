@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Portfolio" max_length="40" name="x_clstu_pmo_portfolio" type="collection">
+        <element choice="1" display="true" label="Portfolio" max_length="50" name="portfolio" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Client Services" value="pmo_cs"/>
+                <element inactive_on_update="false" label="Enterprise Applications" value="pmo_ea"/>
+                <element inactive_on_update="false" label="Information Technology Services" value="pmo_its"/>
+                <element inactive_on_update="false" label="Technology Infrastructure" value="pmo_ti"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_clstu_pmo.DateTimeUTILS</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>DateTimeUTILS</name>
+        <script><![CDATA[var DateTimeUTILS = Class.create();
+DateTimeUTILS.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	getCalcDuration: function() {
+		var start = this.getParameter('sysparm_strt');
+		var end = this.getParameter('sysparm_end');
+		
+		var gdt1 = new GlideDateTime(start);
+		var gdt2 = new GlideDateTime(end);
+		
+		var dur = new GlideDuration();
+		dur = GlideDateTime.subtract(gdt1, gdt2);
+		
+		return dur.getDisplayValue();
+	},
+	
+    type: 'DateTimeUTILS'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2019-03-18 17:56:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e783438d1bd83304ad3c437ead4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DateTimeUTILS</sys_name>
+        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+        <sys_update_name>sys_script_include_e783438d1bd83304ad3c437ead4bcb50</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:56:07</sys_updated_on>
+    </sys_script_include>
+</record_update>

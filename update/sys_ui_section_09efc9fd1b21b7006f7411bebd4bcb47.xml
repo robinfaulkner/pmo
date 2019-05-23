@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Project" section_id="09efc9fd1b21b7006f7411bebd4bcb47" sys_domain="global" table="x_clstu_pmo_request" version="3" view="default">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>fb009dfd1b21b7006f7411bebd4bcb97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_title</element>
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>7f009dfd1b21b7006f7411bebd4bcb97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pmo_project_manager</element>
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>ff009dfd1b21b7006f7411bebd4bcb97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_internal</element>
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>73009dfd1b21b7006f7411bebd4bcb98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>bb009dfd1b21b7006f7411bebd4bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_status</element>
+            <position>5</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>3f009dfd1b21b7006f7411bebd4bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>bf009dfd1b21b7006f7411bebd4bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pmo_planned_start_date</element>
+            <position>7</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>33009dfd1b21b7006f7411bebd4bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pmo_planned_end_date</element>
+            <position>8</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>b3009dfd1b21b7006f7411bebd4bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>37009dfd1b21b7006f7411bebd4bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_description</element>
+            <position>10</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>b7009dfd1b21b7006f7411bebd4bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_scope</element>
+            <position>11</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:40:37</sys_created_on>
+            <sys_id>3b009dfd1b21b7006f7411bebd4bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_clstu_pmo_request" sys_domain="global" view="c00a05791b21b7006f7411bebd4bcb1b">09efc9fd1b21b7006f7411bebd4bcb47</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Project</caption>
+            <header>false</header>
+            <name>x_clstu_pmo_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-05-21 20:39:54</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09efc9fd1b21b7006f7411bebd4bcb47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+            <sys_update_name>sys_ui_section_09efc9fd1b21b7006f7411bebd4bcb47</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-05-21 20:39:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default" name="default">c00a05791b21b7006f7411bebd4bcb1b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

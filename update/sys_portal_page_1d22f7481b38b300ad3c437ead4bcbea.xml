@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-05-23 18:21:45">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2019-04-09 15:12:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d22f7481b38b300ad3c437ead4bcbea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Calendar</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+        <sys_update_name>sys_portal_page_1d22f7481b38b300ad3c437ead4bcbea</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2019-04-09 15:27:14</sys_updated_on>
+        <title>PA Calendar</title>
+        <user/>
+        <view>pa_new_tab_2_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Calendar">1d22f7481b38b300ad3c437ead4bcbea</page>
+                <summary>PMO - Proposed Go Live Date</summary>
+                <sys_created_by>rfaulkner1</sys_created_by>
+                <sys_created_on>2019-04-09 15:15:43</sys_created_on>
+                <sys_id>f6e2f3881b38b300ad3c437ead4bcb5c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>rfaulkner1</sys_updated_by>
+                <sys_updated_on>2019-04-09 15:15:43</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab 2">192233881b38b300ad3c437ead4bcb3a</grid_canvas>
+                        <height>17</height>
+                        <portal_widget display_value="Created 04/09/2019 11:15:43 AM">f6e2f3881b38b300ad3c437ead4bcb5c</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>rfaulkner1</sys_created_by>
+                        <sys_created_on>2019-04-09 15:15:43</sys_created_on>
+                        <sys_customer_update>false</sys_customer_update>
+                        <sys_id>36e2f3881b38b300ad3c437ead4bcb5f</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_name/>
+                        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_36e2f3881b38b300ad3c437ead4bcb5f</sys_update_name>
+                        <sys_updated_by>rfaulkner1</sys_updated_by>
+                        <sys_updated_on>2019-04-09 15:22:37</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 04/09/2019 11:15:43 AM">f6e2f3881b38b300ad3c437ead4bcb5c</portal_section>
+                        <sys_created_by>rfaulkner1</sys_created_by>
+                        <sys_created_on>2019-04-09 15:15:43</sys_created_on>
+                        <sys_id>32e2f3881b38b300ad3c437ead4bcb5d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rfaulkner1</sys_updated_by>
+                        <sys_updated_on>2019-04-09 15:15:43</sys_updated_on>
+                        <value>a989a7401b38b300ad3c437ead4bcb4e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 04/09/2019 11:15:43 AM">f6e2f3881b38b300ad3c437ead4bcb5c</portal_section>
+                        <sys_created_by>rfaulkner1</sys_created_by>
+                        <sys_created_on>2019-04-09 15:15:43</sys_created_on>
+                        <sys_id>32e2f3881b38b300ad3c437ead4bcb5e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rfaulkner1</sys_updated_by>
+                        <sys_updated_on>2019-04-09 15:15:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 04/09/2019 11:15:43 AM">f6e2f3881b38b300ad3c437ead4bcb5c</portal_section>
+                        <sys_created_by>rfaulkner1</sys_created_by>
+                        <sys_created_on>2019-04-09 15:15:43</sys_created_on>
+                        <sys_id>7ee2f3881b38b300ad3c437ead4bcb5d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rfaulkner1</sys_updated_by>
+                        <sys_updated_on>2019-04-09 15:15:43</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 04/09/2019 11:15:43 AM">f6e2f3881b38b300ad3c437ead4bcb5c</portal_section>
+                        <sys_created_by>rfaulkner1</sys_created_by>
+                        <sys_created_on>2019-04-09 15:15:43</sys_created_on>
+                        <sys_id>b6e2f3881b38b300ad3c437ead4bcb5e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rfaulkner1</sys_updated_by>
+                        <sys_updated_on>2019-04-09 15:15:43</sys_updated_on>
+                        <value>PMO - Proposed Go Live Date</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 04/09/2019 11:15:43 AM">f6e2f3881b38b300ad3c437ead4bcb5c</portal_section>
+                        <sys_created_by>rfaulkner1</sys_created_by>
+                        <sys_created_on>2019-04-09 15:15:43</sys_created_on>
+                        <sys_id>bae2f3881b38b300ad3c437ead4bcb5d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rfaulkner1</sys_updated_by>
+                        <sys_updated_on>2019-04-09 15:15:43</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 04/09/2019 11:15:43 AM">f6e2f3881b38b300ad3c437ead4bcb5c</portal_section>
+                        <sys_created_by>rfaulkner1</sys_created_by>
+                        <sys_created_on>2019-04-09 15:15:43</sys_created_on>
+                        <sys_id>f2e2f3881b38b300ad3c437ead4bcb5e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rfaulkner1</sys_updated_by>
+                        <sys_updated_on>2019-04-09 15:15:43</sys_updated_on>
+                        <value>calendar</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Projects</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_clstu_pmo_request</name>
+        <number_ref display_value="PMOR">c46eb0454f2563009a35afdd0210c756</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Task" name="task">f4f34f064f3622009a35afdd0210c72d</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-11-01 15:09:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>118c3cc14f2563009a35afdd0210c7f2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Projects</sys_name>
+        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+        <sys_update_name>sys_db_object_118c3cc14f2563009a35afdd0210c7f2</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-12-12 19:32:35</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_clstu_pmo.pmo_request_user" name="x_clstu_pmo.pmo_request_user">d8cc30054f2563009a35afdd0210c772</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

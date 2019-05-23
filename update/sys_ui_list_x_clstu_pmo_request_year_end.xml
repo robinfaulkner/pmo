@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_clstu_pmo_request" version="2" view="year_end">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project_title</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="396cd02d1b5c7304ad3c437ead4bcb5b">e89c902d1b5c7304ad3c437ead4bcbff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-19 18:58:43</sys_created_on>
+            <sys_id>a09cd02d1b5c7304ad3c437ead4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-19 18:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_fiscal_year</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="396cd02d1b5c7304ad3c437ead4bcb5b">e89c902d1b5c7304ad3c437ead4bcbff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-19 18:58:43</sys_created_on>
+            <sys_id>249cd02d1b5c7304ad3c437ead4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-19 18:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_amount_requested</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="396cd02d1b5c7304ad3c437ead4bcb5b">e89c902d1b5c7304ad3c437ead4bcbff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-19 18:58:43</sys_created_on>
+            <sys_id>a49cd02d1b5c7304ad3c437ead4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-19 18:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_justification</element>
+            <list_id display_value="x_clstu_pmo_request" element="NULL" name="x_clstu_pmo_request" parent="NULL" relationship="NULL" sys_domain="global" view="396cd02d1b5c7304ad3c437ead4bcb5b">e89c902d1b5c7304ad3c437ead4bcbff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-19 18:58:43</sys_created_on>
+            <sys_id>289cd02d1b5c7304ad3c437ead4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-19 18:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_clstu_pmo_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2019-03-19 18:58:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e89c902d1b5c7304ad3c437ead4bcbff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_pmo_request</sys_name>
+            <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+            <sys_update_name>sys_ui_list_x_clstu_pmo_request_year_end</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2019-03-19 18:58:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Year End" name="year_end">396cd02d1b5c7304ad3c437ead4bcb5b</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

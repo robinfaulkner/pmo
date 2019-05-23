@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-12-10 16:06:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>edcfbda14fd627009a35afdd0210c703</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_clstu_pmo_risk.x_clstu_pmo.risk_user</sys_name>
+        <sys_package display_value="PMO" source="x_clstu_pmo">787cfc0d4fe163009a35afdd0210c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMO">787cfc0d4fe163009a35afdd0210c7a9</sys_scope>
+        <sys_security_acl display_value="x_clstu_pmo_risk">e1cf7da14fd627009a35afdd0210c7f3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_edcfbda14fd627009a35afdd0210c703</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-12-10 16:06:33</sys_updated_on>
+        <sys_user_role display_value="x_clstu_pmo.risk_user" name="x_clstu_pmo.risk_user">01cf7da14fd627009a35afdd0210c7c0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
